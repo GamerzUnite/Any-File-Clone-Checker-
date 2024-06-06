@@ -3,7 +3,7 @@
 ## Overview
 This program enables comparison between any two types of files, including PDFs, Word documents, Excel sheets, images, etc. It serves as a tool for detecting duplicates or similarities between files of different formats.
 
-## Notes
+## Note
 In this program we can include a feature where it showcases the difference between 2 files in a seprate second window. Which will help this project to take to an another level . when needed for an understanding of this way of file working.
 
 
